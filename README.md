@@ -33,8 +33,8 @@ This application provides a simple navigation structure using React Router. You 
 
  (Home): Renders the Home component.
  about`: Renders the About component.
- contact: Renders the Contact component with a phone number prop.
- projects: Renders the Projects component.
+ contact: Renders the Contact component which has a contact form
+ projects: Renders the Projects component which links to my github
 
 
 
