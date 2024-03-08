@@ -14,7 +14,7 @@ This is a simple React application that utilizes React Router for navigation bet
 
 git clone https://github.com/LB45000/SPA-Portfolio
 Install dependencies using npm:
-cd react-router-app
+cd SPA-Portfolio
 Start the development server:
 npm start
 Open your browser and navigate to http://localhost:3000 to view the app.
