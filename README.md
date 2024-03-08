@@ -27,10 +27,10 @@ This application provides a simple navigation structure using React Router. You 
 
 ## Components
 
- Home
- About
- Contact
- Projects
+ Home,
+ About,
+ Contact,
+ Projects,
 
 ## Routes
 
