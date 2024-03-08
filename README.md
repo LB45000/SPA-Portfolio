@@ -27,17 +27,17 @@ This application provides a simple navigation structure using React Router. You 
 
 ## Components
 
-# Home: Displays the home page content.
-# About: Displays information about the project or the team.
-# Contact: Provides contact information, including a phone number passed as a prop.
-# Projects: Displays a list of projects or portfolio items.
+ Home: Displays the home page content.
+ About: Displays information about the project or the team.
+ Contact: Provides contact information, including a phone number passed as a prop.
+ Projects: Displays a list of projects or portfolio items.
 
 ## Routes
 
-# (Home): Renders the Home component.
-# about`: Renders the About component.
-# contact: Renders the Contact component with a phone number prop.
-# projects: Renders the Projects component.
+ (Home): Renders the Home component.
+ about`: Renders the About component.
+ contact: Renders the Contact component with a phone number prop.
+ projects: Renders the Projects component.
 
 
 
